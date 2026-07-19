@@ -1,13 +1,5 @@
-<!-- ===================================================================== -->
-<!--  Jin1370 · GitHub Profile README                                      -->
-<!--                                                                       -->
-<!--  ✏️  "여기 바꾸세요" 주석이 달린 곳만 고치면 완성됩니다.               -->
-<!--     (이메일 · 블로그 · 링크드인 · 한 줄 소개 등)                       -->
-<!-- ===================================================================== -->
-
 <h1 align="center">안녕하세요, Jin1370입니다 👋</h1>
 
-<!-- ✏️ 여기 바꾸세요: 나를 한 줄로 표현하는 문장 -->
 <!-- 📊 GitHub Stats: github-stats-extended (github-readme-stats 포크) 사용 -->
 <p align="center">
   <b>TypeScript로 웹·모바일과 AI를 잇는 풀스택 개발자</b>
@@ -24,12 +16,11 @@
 ---
 
 ## 🙋‍♂️ About Me
-
-- 🔭 현재 **Haru** — 보이스 클론 기반 *cross-language* 데이팅 앱을 프론트엔드·백엔드 모두 개발하고 있어요
-- ⚡ **TypeScript** 하나로 웹(Next.js), 모바일(React Native), 백엔드(Express)까지 넘나듭니다
-- 🤖 **생성형 AI**를 제품에 붙이는 걸 좋아해요 — 음성 합성(ElevenLabs), 번역(Gemini), 콘텐츠 모더레이션(OpenAI)
-- 🌱 요즘은 실시간 아키텍처와 비동기 파이프라인 설계를 깊게 파고 있습니다
-<!-- ✏️ 여기 바꾸세요: 아래 이메일 -->
+- 사용자의 불편함을 발견하고, 이를 해결하는 기능으로 구현하는 것을 좋아합니다
+- 문제를 마주했을 때, 이를 구조적으로 분석하고 실행 가능한 해결 방식으로 전환합니다
+- 새로운 기술을 학습하고 프로젝트에 적용하며 지속적으로 발전합니다
+- 개발 과정과 경험을 외부에 공유하며, 피드백을 통해 성장합니다
+- 생성형 AI를 제품에 붙이거나 개발에 적극 활용합니다
 - 📫 연락은 **sejinim02@gmail.com** 으로 편하게 주세요
 
 <br/>
@@ -117,17 +108,15 @@
 
 ## 📫 Contact
 
-<!-- ✏️ 여기 바꾸세요: 아래 링크들을 본인 것으로 교체하세요.        -->
-<!--    안 쓰는 줄은 통째로 지우면 됩니다.                          -->
 <p align="center">
-  <a href="https://blog.naver.com/doolgii">
-    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sejin-im-60b137409/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://velog.io/@gaemaru17/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sejin-im-60b137409/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://blog.naver.com/doolgii">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
 </p>
 
