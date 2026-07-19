@@ -120,11 +120,11 @@
 <!-- ✏️ 여기 바꾸세요: 아래 링크들을 본인 것으로 교체하세요.        -->
 <!--    안 쓰는 줄은 통째로 지우면 됩니다.                          -->
 <p align="center">
-  <a href="mailto:sejinim02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://blog.naver.com/doolgii">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@gaemaru17/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sejin-im-60b137409/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
