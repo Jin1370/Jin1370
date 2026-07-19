@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&center=true&vCenter=true&width=540&color=0969DA&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+Next.js;Node.js+%7C+Express+%7C+Supabase;Building+AI-powered+products+with+TypeScript" alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&center=true&vCenter=true&width=540&color=0969DA&lines=Full-Stack+Developer;Building+AI-powered+products+with+TypeScript" alt="typing SVG" />
 </p>
 
 <p align="center">
