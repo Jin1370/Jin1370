@@ -30,7 +30,7 @@
 - 🤖 **생성형 AI**를 제품에 붙이는 걸 좋아해요 — 음성 합성(ElevenLabs), 번역(Gemini), 콘텐츠 모더레이션(OpenAI)
 - 🌱 요즘은 실시간 아키텍처와 비동기 파이프라인 설계를 깊게 파고 있습니다
 <!-- ✏️ 여기 바꾸세요: 아래 이메일 -->
-- 📫 연락은 **your-email@example.com** 으로 편하게 주세요
+- 📫 연락은 **sejinim02@gmail.com** 으로 편하게 주세요
 
 <br/>
 
@@ -118,9 +118,6 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jin1370/carrot-market">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=carrot-market&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-  </a>
   <a href="https://github.com/Jin1370/onYourWay">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=onYourWay&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
   </a>
@@ -133,13 +130,13 @@
 <!-- ✏️ 여기 바꾸세요: 아래 링크들을 본인 것으로 교체하세요.        -->
 <!--    안 쓰는 줄은 통째로 지우면 됩니다.                          -->
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sejinim02@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-blog.com">
+  <a href="https://blog.naver.com/doolgii">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-id">
+  <a href="https://www.linkedin.com/in/sejin-im-60b137409/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
