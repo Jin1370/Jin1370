@@ -112,11 +112,6 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=haru_BE&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Jin1370/onYourWay">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=onYourWay&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-  </a>
-</p>
 
 <br/>
 
