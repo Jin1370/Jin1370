@@ -8,6 +8,7 @@
 <h1 align="center">안녕하세요, Jin입니다 👋</h1>
 
 <!-- ✏️ 여기 바꾸세요: 나를 한 줄로 표현하는 문장 -->
+<!-- 📊 GitHub Stats: github-stats-extended (github-readme-stats 포크) 사용 -->
 <p align="center">
   <b>TypeScript로 웹·모바일과 AI를 잇는 풀스택 개발자</b>
 </p>
@@ -24,7 +25,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 현재 **Haru** — 보이스 클론 기반 *cross-language* 데이팅 앱을 프로는 문장·백엔드·백엔드 모두 개발하고 있어요
+- 🔭 현재 **Haru** — 보이스 클론 기반 *cross-language* 데이팅 앱을 프론트엔드·백엔드 모두 개발하고 있어요
 - ⚡ **TypeScript** 하나로 웹(Next.js), 모바일(React Native), 백엔드(Express)까지 넘나듭니다
 - 🤖 **생성형 AI**를 제품에 붙이는 걸 좋아해요 — 음성 합성(ElevenLabs), 번역(Gemini), 콘텐츠 모더레이션(OpenAI)
 - 🌱 요즘은 실시간 아키텍처와 비동기 파이프라인 설계를 깊게 파고 있습니다
@@ -93,8 +94,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jin1370&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" alt="Jin1370's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jin1370&layout=compact&langs_count=8&hide_border=true&title_color=0969DA&text_color=57606A&bg_color=FFFFFF" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Jin1370&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" alt="Jin1370's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jin1370&layout=compact&langs_count=8&hide_border=true&title_color=0969DA&text_color=57606A&bg_color=FFFFFF" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -110,18 +111,18 @@
 
 <p align="center">
   <a href="https://github.com/Jin1370/haru_FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jin1370&repo=haru_FE&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=haru_FE&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
   </a>
   <a href="https://github.com/Jin1370/haru_BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jin1370&repo=haru_BE&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=haru_BE&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Jin1370/carrot-market">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jin1370&repo=carrot-market&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=carrot-market&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
   </a>
   <a href="https://github.com/Jin1370/onYourWay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jin1370&repo=onYourWay&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jin1370&repo=onYourWay&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
   </a>
 </p>
 
@@ -129,7 +130,7 @@
 
 ## 📫 Contact
 
-<!-- ✏️ 여기 바꾸세요: 아래 링크들을 본인 것으로 교체한세요.        -->
+<!-- ✏️ 여기 바꾸세요: 아래 링크들을 본인 것으로 교체하세요.        -->
 <!--    안 쓰는 줄은 통째로 지우면 됩니다.                          -->
 <p align="center">
   <a href="mailto:your-email@example.com">
