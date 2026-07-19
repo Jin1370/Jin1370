@@ -5,7 +5,7 @@
 <!--     (이메일 · 블로그 · 링크드인 · 한 줄 소개 등)                       -->
 <!-- ===================================================================== -->
 
-<h1 align="center">안녕하세요, Jin입니다 👋</h1>
+<h1 align="center">안녕하세요, Jin1370입니다 👋</h1>
 
 <!-- ✏️ 여기 바꾸세요: 나를 한 줄로 표현하는 문장 -->
 <!-- 📊 GitHub Stats: github-stats-extended (github-readme-stats 포크) 사용 -->
@@ -97,11 +97,6 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Jin1370&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" alt="Jin1370's GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jin1370&layout=compact&langs_count=8&hide_border=true&title_color=0969DA&text_color=57606A&bg_color=FFFFFF" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jin1370&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideNums=57606A&sideLabels=57606A&dates=999999&background=FFFFFF" alt="GitHub streak" />
-</p>
-
 <br/>
 
 ## 📌 대표 프로젝트
