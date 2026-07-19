@@ -2,7 +2,7 @@
 
 <!-- 📊 GitHub Stats: github-stats-extended (github-readme-stats 포크) 사용 -->
 <p align="center">
-  <b>TypeScript로 웹·모바일과 AI를 잇는 풀스택 개발자</b>
+  <b>웹·모바일과 AI를 잇는 풀스택 개발자</b>
 </p>
 
 <p align="center">
