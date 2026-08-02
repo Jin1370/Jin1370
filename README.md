@@ -72,8 +72,8 @@
 
 ## 📌 대표 프로젝트
 
-> 🎙️ **Haru** — "사진과 텍스트만으론 느낄 수 없던 진짜 첫인상을 *목소리*로."
-> 보이스 클론 기반 cross-language 데이팅 앱. AI가 메시지를 상대의 언어로 번역하되, **보낸 사람의 목소리 그대로** 전달합니다. (React Native · Expo · Express · Supabase · ElevenLabs · Gemini)
+> 🎙️ **Haru** — "사진과 텍스트만으론 느낄 수 없는 진짜 분위기를 *목소리*로."
+> 보이스 클론 기반 cross-language SNS. AI가 텍스트 메시지를 상대의 언어로 번역하여, **보낸 사람의 목소리 그대로** 전달합니다. (React Native · Expo · Express · Supabase · ElevenLabs · Gemini)
 
 <p align="center">
   <a href="https://github.com/Jin1370/haru_FE">
